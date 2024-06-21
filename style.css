@@ -216,10 +216,10 @@ nav.navbar.transparent {
 }
  */
 
-#wipHeader{
+/* #wipHeader{
   /* text-size: 50px; */
   background-image: url("images/cautionLines.png");
   stroke: black;
   -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: black;
-}
+} */
